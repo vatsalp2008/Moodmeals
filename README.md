@@ -78,8 +78,8 @@ src/
 ### Installation
 
 ```bash
-git clone https://github.com/rohanjoshi1399/MoodMeals.git
-cd MoodMeals
+git clone https://github.com/vatsalp2008/Moodmeals.git
+cd Moodmeals
 npm install
 ```
 
